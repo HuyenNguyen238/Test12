@@ -1,0 +1,13 @@
+= Page2
+:app-full-name: Huyen Nguyen  
+:app-short-name: HNg
+
+HTML and XML character entities as well as decimal and hexadecimal Unicode code point references are also recognized and replaced.
+
+== Page2a
+
+If you want Antora to fail the CI/CD pipeline if there are any warnings or non-fatal errors, add --log-failure-level=warn to the antora command. Alternately, you can set the runtime.log.failure_level key in the playbook to make it a permanent setting.
+
+== Page2b
+
+If you want Antora to fail the CI/CD pipeline if there are any warnings or non-fatal errors, add --log-failure-level=warn to the antora command. Alternately, you can set the runtime.log.failure_level key in the playbook to make it a permanent setting.

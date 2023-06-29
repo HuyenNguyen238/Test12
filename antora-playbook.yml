@@ -1,0 +1,15 @@
+site:
+  title: Huyen Nguyen Document1 and Document2
+  start_page: docs:ROOT:index.adoc
+git:
+  ensure_git_suffix: false
+content:
+  sources:
+  - url: https://github.com/HuyenNguyen238/Test12.git
+    start_path: docs
+    branches: master
+    edit_url: false
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true

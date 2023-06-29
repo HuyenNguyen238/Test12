@@ -1,0 +1,11 @@
+= Introduction
+:app-full-name: Huyen Nguyen  
+:app-short-name: HNg
+
+Cross reference syntax to target this page
+To create a cross reference to this page from another page in Module One, the xref syntax would be 
+
+To create a cross reference to this page from a page in the ROOT module of Component B, the xref syntax would be 
+
+Always target the latest version of this page
+To create a cross reference to the latest version of this page from a page in Component A, the xref syntax would be 

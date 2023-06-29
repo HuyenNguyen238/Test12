@@ -1,0 +1,6 @@
+= Legal Notice
+:app-full-name: Huyen Nguyen  
+:app-short-name: HNg
+
+Optional title of sidebar
+Sidebars are used to visually separate short, auxiliary bits of content that supplement the main text.

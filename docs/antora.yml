@@ -1,0 +1,5 @@
+name: docs
+title: Huyen Nguyen Document1 and Document2
+nav:
+- modules/Document1/nav.adoc
+- modules/Document2/nav.adoc

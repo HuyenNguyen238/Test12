@@ -1,0 +1,5 @@
+= Huyen Nguyen Document1 and Document2
+
+image::cover.png[align="center"]
+
+

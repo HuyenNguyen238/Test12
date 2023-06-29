@@ -1,0 +1,21 @@
+= Content1
+:app-full-name: Huyen Nguyen  
+:app-short-name: HNg
+
+Cross reference syntax to target this page
+To create a cross reference to this page from another page in Module One, the xref syntax would.
+
+To create a cross reference to this page from a page in the ROOT module of Component B, the xref syntax would be.
+
+== Content1a
+
+Always target the latest version of this page
+To create a cross reference to the latest version of this page from a page in Component A, the xref syntax would be x.
+
+Target a specific version of this page
+To create a cross reference to version 1.0 of this page from a page in Component A, the xref syntax would be.
+
+== Content1b
+
+Target a specific version of this page
+To create a cross reference to version 1.0 of this page from a page in Component A, the xref syntax would be.

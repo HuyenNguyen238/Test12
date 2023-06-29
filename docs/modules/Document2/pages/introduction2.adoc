@@ -1,0 +1,5 @@
+= Introduction
+:app-full-name: Huyen Nguyen  
+:app-short-name: HNg
+
+This page is used as the home page for the Antora Demo because it is assigned as the site start_page in the Demo site’s playbook file site.yml.

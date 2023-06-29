@@ -1,0 +1,7 @@
+= Legal Notice
+:app-full-name: Huyen Nguyen  
+:app-short-name: HNg
+
+This is version 2.0 of Module One in Component B.
+
+To switch to version 1.0 of this page, use the page version selector. The selector is on the task bar, located near the upper right corner of the page.

@@ -1,0 +1,37 @@
+= Page1
+:app-full-name: Huyen Nguyen  
+:app-short-name: HNg          
+:icons: font
+:source-highlighter: highlightjs
+:source-language: json
+:highlightjs-theme: monokai
+
+Special character and symbol replacement is built into Asciidoctor.
+
+== Page1a
+
+.Example1:
+[source]
+----
+npm init
+----
+
+.Example2:
+[source]
+----
+npm install <package-name>
+----
+
+[NOTE]
+====
+Replace <package-name> with the name of the package you want to install.
+====
+
+
+While using the Antora Docker image is a convenient way to get up and running quickly, we strongly recommend declaring the dependencies of your site within your playbook project (or extending the Docker image). By doing so, you keep your build self-contained and portable. This is especially important if you rely on additional packages such as the @antora/lunr-extension and asciidoctor-kroki.
+
+
+
+== Page1b
+
+If any of your content repositories are private, you can define a GIT_CREDENTIALS CI/CD variable that holds the credentials to give Antora access to those repositories in this environment. You can set up deploy tokens in your content repository to give the CI/CD pipeline in your playbook project (and thus Antora) read-only access to those repositories.

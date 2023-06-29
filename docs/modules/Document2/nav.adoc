@@ -1,0 +1,7 @@
+* Document2
+
+** xref:introduction2.adoc[Introduction]
+
+** Content2
+*** xref:Content2/page1.adoc[Page1]
+*** xref:Content2/page2.adoc[Page2]
